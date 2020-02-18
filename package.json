@@ -46,5 +46,9 @@
   },
   "devDependencies": {
     "prettier": "^1.15.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wandrespsl/gatsby-starter-netlify-cms"
   }
 }
