@@ -1,10 +1,12 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
 import Footer from '../components/Footer'
-import Navbar from '../components/Navbar'
-import './all.sass'
+
+import Header from './header'
+
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
+import "./all.scss"
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
@@ -48,7 +50,7 @@ const TemplateWrapper = ({ children }) => {
           content={`${withPrefix('/')}img/og-image.jpg`}
         />
       </Helmet>
-      <Navbar />
+      <Header siteTitle="PSLCorp Home" />
       <div>{children}</div>
       <Footer />
     </div>
