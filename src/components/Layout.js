@@ -1,4 +1,6 @@
 import React from 'react'
+import PropTypes from "prop-types"
+
 import { Helmet } from 'react-helmet'
 import Footer from '../components/Footer'
 
@@ -55,6 +57,10 @@ const TemplateWrapper = ({ children }) => {
       <Footer />
     </div>
   )
+}
+
+TemplateWrapper.propTypes = {
+  children: PropTypes.node.isRequired,
 }
 
 export default TemplateWrapper

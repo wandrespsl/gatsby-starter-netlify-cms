@@ -9,9 +9,11 @@ const Header = ({ siteTitle }) => (
     <Link to="/">
       <Image name="logo-psl-2019.png" />
     </Link>
-    <Link className="item" to="/blog">
-      Blog
-    </Link>
+    <nav className="nav justify-content-center">
+      <Link className="item nav-link" to="/blog">
+        Blog
+      </Link>
+    </nav>
   </StyledHeader>
 );
 

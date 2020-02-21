@@ -2,7 +2,7 @@
 
 // Config vars
 // Kaldi logo brand color: #FD461E
-$psl-purple: #B720FF;
+$psl-purple: #b720ff;
 $psl-purple-invert: #fff;
 
 $primary: $psl-purple;
@@ -123,18 +123,18 @@ $menu-label-color: $white-ter;
 }
 
 .social {
-  padding: 2em;
+  display: flex;
+  justify-content: flex-start;
 }
 
 .social a {
   padding: 0.5em 0.5em 0.3em 0.5em;
   border-radius: 1em;
-  background-color: $white-ter;
-  margin: 0.5em;
-  width: 1em;
-  height: 1em;
-  vertical-align: middle;
-  display: inline;
+  background-color: white;
+  opacity: 0.5;
+  margin: 0.5em 0.5rem 0 0;
+  width: 2em;
+  height: 2em;
 }
 
 // blog roll
@@ -790,7 +790,7 @@ pre tt:after {
   flex-wrap: wrap;
 }
 
-.container {
-  width: 1170px;
-  margin: 6.25rem auto;
-}
+// .container {
+//   width: 1170px;
+//   margin: 6.25rem auto;
+// }
