@@ -26,7 +26,7 @@ export const StyledHeader = styled.header`
     width: 7rem;
   }
   a {
-    color: ${colors.purple};
+    color: ${colors.ligthBlue};
   }
 `;
 
@@ -126,6 +126,7 @@ export const StyledSection = styled.div`
         strong {
           display: block;
           font-weight: 400;
+          color: white;
         }
       }
       .dp-flex {

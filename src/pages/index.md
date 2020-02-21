@@ -51,6 +51,28 @@ intro:
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
+article:
+  section:
+    - image: /img/home-gradient.jpg
+      title: Our passion is coding the future
+      text: >
+        Nearshore Software Development
+        Offshore Outsourcing Center
+    - image: /img/coffee-gear.png
+      title: Section second 
+      text: >
+        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    - image: /img/tutorials.png
+      title: Section three
+      text: >
+        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. 
+    - image: /img/meeting-space.png
+      title: Section four
+      text: >
+        The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+  heading: Section Test
+  description: >
+    This is test for section with Gatsby and Netlify CMS    
 main:
   heading: Great coffee with no compromises
   description: >
@@ -68,4 +90,3 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-
