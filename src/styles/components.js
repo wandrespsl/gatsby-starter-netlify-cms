@@ -123,7 +123,7 @@ export const StyledSection = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  .custom-labs-case-studies {
+  .custom-section {
     height: 100%;
     padding: 4.375rem 0;
     .container {

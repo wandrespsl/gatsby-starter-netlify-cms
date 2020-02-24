@@ -18,12 +18,13 @@ export default function Section({ sectionItems }) {
             backgroundRepeat: `no-repeat`,
             backgroundSize: `cover`
           }}
-          key={item.id}
+          key={item.image.id}
         >
-          <div className="custom-labs-case-studies">
+          <div className="custom-section">
             <div className="container">
               <div className="column-3">
                 <span>{item.title}</span>
+                <h2>{item.id}</h2>
                 <h1>
                   {item.text}
                 </h1>

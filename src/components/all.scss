@@ -34,13 +34,12 @@ $black: #2b2523;
 // Helper Classes
 .full-width-image-container {
   width: 100vw;
-  height: 400px;
+  height: 200px;
   position: relative;
-  left: 50%;
-  right: 50%;
-  margin: 2em -50vw;
-  background-size: cover;
-  background-position: bottom;
+  margin: 2em auto;
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: top center;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -772,7 +771,7 @@ pre tt:after {
   flex-wrap: wrap;
 }
 
-// .container {
-//   width: 1170px;
-//   margin: 6.25rem auto;
-// }
+.img-blog-post div p img {
+  margin: 0 auto;
+  display: block;
+}
