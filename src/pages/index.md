@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Home PSL
 image: /img/home-gradient.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
@@ -58,18 +58,19 @@ article:
       text: >
         Nearshore Software Development
         Offshore Outsourcing Center
-    - image: /img/coffee-gear.png
-      title: Section second 
+    - image: /img/home-capabilities.jpg
+      title: Capabilities
       text: >
-        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    - image: /img/tutorials.png
-      title: Section three
+        Connecting your vision with results
+        We focus on depth, not breadth. PSL equips teams with qualified experts proficient in the skills you need to help you achieve your technology vision and scale your software solutions.
+    - image: /img/home-clients.jpg
+      title: In the words of our clients
       text: >
-        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. 
-    - image: /img/meeting-space.png
-      title: Section four
+        In a relatively short time, we have been able to develop a digital business platform that supports operations in 57 countries worldwide and in 28 languages. Without PSL, this would have never been possible.
+    - image: /img/home-psllabs.jpg
+      title: PSL labs
       text: >
-        The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+        Innovation starts with PSL, it’s in our DNA. PSL Labs is a collaborative program where we explore new technologies and processes in an effort to solve ever more challenging problems with relevant and innovative solutions, and ultimately, make a greater impact on the world.
   heading: Section Test
   description: >
     This is test for section with Gatsby and Netlify CMS    

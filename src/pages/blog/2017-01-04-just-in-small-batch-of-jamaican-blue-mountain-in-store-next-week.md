@@ -1,34 +1,44 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
-featuredpost: true
+templateKey: "blog-post"
+title: 5 Nearshore Development Trends to Watch Closely in 2020
+date: 2019-11-29T15:04:10.000Z
+featuredpost: false
+featuredimage: /img/blog-2.jpg
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  As we reflect on another decade of growth within the nearshore software development industry, the dawn of 2020 encourages us to take a fresh look at the trends that might shape the region's IT services sector in the coming year.
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - nearshore software development
+  - Software News
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+![chemex](/img/blog-2.jpg)
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+With its large pool of software engineering talent, high levels of English proficiency, convenient time zone alignment, and cultural affinity to the U.S. market, it's no wonder that Latin America has become a powerhouse in nearshore software development outsourcing over the last few decades.
 
-## A little history
+However, these benefits alone will not support the industry forever, as the need for value-added services, emergence of next-gen technologies, and disruption from economic fluctuations will have more impact on customer buying decisions than ever before.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Since 1984, PSL has been on the front lines of the nearshore software development industry where we've witnessed the constant ebb and flow of trends throughout the sector. As we head into our 36th year of operations, here are the top five trends we expect to shape the nearshore market in 2020.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+## Colombia Leads the Region
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+Next year, Latin America as a region is expected to benefit from several regulatory reforms put into place by authorities in 2019, improving the ease of doing business for foreign investors and nearshore development customers.
 
-## What you need to know before trying
+Colombia is leading the pack in this regard, with 37 reforms since 2005. Three of its major reforms this year made starting a business easier, simplified trading across borders and eased the process of resolving insolvency. The country has also remained on track to grow 3.4%, according to the International Monetary Fund (IMF), making it the highest earner in the region. In fact, this was the country's best rate of growth in five years, says the Financial Times.
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+Individual cities in Colombia are also investing in education and technology to improve the standard of living and drive consistent economic growth. Medellin is home to the fifth Center for the Fourth Industrial Revolution, which was established to help strengthen the business sector, spur economic growth in the region, develop and support local talent, and address development challenges.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+In order to attract the center in the first place, the city made an effort to increase the percentage of investment in science, technology and innovation from 0.7% of GDP in 2015 to 2.27% of GDP in 2018, a feat that has transformed the city and its people.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+[RELATED READING | Why Nearshoring to Colombia and Medellin Has Never Been More Attractive]
+
+## Innovation, Innovation, Innovation
+
+Creating new technologies and inventing digital solutions are common practices in the digital age, but one aspect of this brave new world still eludes some organizations: how to foster a culture of innovation.
+
+True innovation should extend throughout a company from the top-down. It requires leaders who can champion a culture of innovation by empowering teams to experiment, work independently, and take responsibility for their own capabilities, all while supporting those efforts with a variety of different resources.
+
+To aid with this innovation culture challenge, nearshore software development companies, particularly in Colombia, have been meeting U.S. clients head-on with their innovation efforts, positioning themselves as world-class innovation partners in several industries.
+
+And while, it may seem counter-intuitive to outsource innovation, when you work with a nearshore development partner as a partner, innovation should become a natural extension of your partnership. But, also be on the lookout for opportunities to work with established leaders in software development outsourcing on PoCs or experimental projects where you are both trying to build up capacity in a new technology, methodology or more.
+
+As more U.S. companies search for suitable partners that can facilitate new levels of innovation, we expect providers in the American nearshore to develop many more innovation partnerships during 2020.

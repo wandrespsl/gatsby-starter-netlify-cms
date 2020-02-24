@@ -18,14 +18,14 @@ export default function Section({ sectionItems }) {
             backgroundRepeat: `no-repeat`,
             backgroundSize: `cover`
           }}
+          key={item.id}
         >
           <div className="custom-labs-case-studies">
             <div className="container">
               <div className="column-3">
-                <span>Our passion is coding the future</span>
+                <span>{item.title}</span>
                 <h1>
-                  Nearshore Software Development
-                  <strong>Offshore Outsourcing Center</strong>
+                  {item.text}
                 </h1>
                 <div className="dp-flex">
                   <Button type="outline">

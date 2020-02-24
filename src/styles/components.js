@@ -45,7 +45,32 @@ export const StyledCard = styled.div`
     justify-content: flex-start;
     border-bottom: 1px solid #ddd;
     width: 90%;
+    margin: 0 auto 0.938rem;
+    padding: 0.938rem;
+    img {
+      border-radius: 50% !important;
+      border: solid 1px #e9ebee;
+      width: 40px;
+      height: 40px;
+      margin: 0 10px 0 0;
+    }
+  }
+  .title {
+    line-height: 1.375rem;
+    font-size: 1.125rem;
+    h2 {
+      color: ${colors.ligthBlue};
+      font-weight: 300;
+      margin: 0 auto;
+      padding: 0.938rem;
+    }
+  }
+  .body {
     margin: 0 auto;
+    padding: 0.938rem;
+    color: #999999;
+    font-size: 1rem;
+    font-weight: 300;
   }
 `;
 export const Button = styled.button`
