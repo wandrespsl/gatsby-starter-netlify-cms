@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Nowadays, what is Software Quality?"
+title: 'Nowadays, what is Software Quality?'
 date: 2020-02-24T19:03:16.768Z
 description: >-
   Every single organization needs to acquire or create software pieces. It
@@ -14,7 +14,7 @@ tags:
   - test automation
 ---
 
-![chemex](/img/blog-1.jpg)
+![chemex](/img/blog-3.jpg)
 
 **The first inaccurate idea:**the software development process will guarantee quality. Well, it certainly can help, but what process are we talking about here? The management framework? The development process? I hear people saying: "Because we use[SCRUM](http://www.pslcorp.com/thought-leadership/blog/is-there-a-better-way-to-do-software.html)we can deliver better quality than a RUP project" Why? Maybe you can deliver products faster than when using[RUP](http://www.pslcorp.com/thought-leadership/blog/what-was-the-end-result-of-traditional-software-development-methodologies.html), but with the same quality issue (or even worse). Some vendors claim that using CMMI improves quality, and this might be true. But projects tend to cost more than necessary with the additional overhead needed to comply with CMMI practices. Even worse, sometimes an information government process, like ITIL, is perceived as a sufficient way to guarantee software quality.
 
